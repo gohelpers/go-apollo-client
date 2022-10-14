@@ -1,0 +1,28 @@
+node_modules
+.DS_Store
+*.local
+.idea
+.idea/*
+# idea
+.idea/
+*.iml
+**/.DS_Store
+
+#deploy data
+deploy/data/*
+
+# gitlab ci
+.cache
+
+#vscode
+.vscode
+.vscode/
+
+vendor
+vendor/
+
+deploy
+deploy/
+data
+
+modd.conf
