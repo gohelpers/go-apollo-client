@@ -1,4 +1,4 @@
-module gohelpers/go-apollo-client
+module github.com/gohelpers/go-apollo-client
 
 go 1.18
 
